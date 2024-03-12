@@ -1,3 +1,3 @@
 Click buttons to see modal.
 
-![Video Wlakthrough](./modalGif.gif)
+![Video Walkthrough](./modalGif.gif)
