@@ -1,3 +1,3 @@
-This project familiarized me with modals using event listeners click.
+Click buttons to see modal.
 
 ![Video Wlakthrough](./modalGif.gif)
